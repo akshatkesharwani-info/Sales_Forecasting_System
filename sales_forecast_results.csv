@@ -1,0 +1,201 @@
+date,store,item,sales,forecast
+2017-12-01,Furniture,Central,317.058,569.9696
+2017-12-02,Furniture,Central,8.752,171.47833
+2017-12-03,Furniture,Central,13.592,1896.652
+2017-12-08,Furniture,Central,459.92,759.24347
+2017-12-09,Furniture,Central,882.648,505.7455
+2017-12-11,Furniture,Central,598.1840000000001,555.72076
+2017-12-14,Furniture,Central,1299.7,735.1364
+2017-12-18,Furniture,Central,99.95,376.56607
+2017-12-21,Furniture,Central,15.92,407.94598
+2017-12-22,Furniture,Central,2606.01,890.71936
+2017-12-28,Furniture,Central,203.1528,389.0787
+2017-11-30,Furniture,East,2322.2160000000003,766.912
+2017-12-01,Furniture,East,1382.954,447.58572
+2017-12-04,Furniture,East,992.782,1711.3019
+2017-12-05,Furniture,East,121.58,1123.5109
+2017-12-08,Furniture,East,325.024,1044.8555
+2017-12-10,Furniture,East,398.8,2230.3887
+2017-12-11,Furniture,East,63.686,991.99207
+2017-12-13,Furniture,East,287.976,549.62524
+2017-12-14,Furniture,East,526.582,619.6944
+2017-12-17,Furniture,East,124.36,806.8284
+2017-12-18,Furniture,East,1160.8980000000001,704.6006
+2017-12-22,Furniture,East,220.98,991.6151
+2017-12-23,Furniture,East,209.41,853.98737
+2017-12-24,Furniture,East,309.694,1744.0962
+2017-12-25,Furniture,East,507.004,372.4392
+2017-12-30,Furniture,East,323.136,873.8001
+2017-11-30,Furniture,South,1781.682,489.6666
+2017-12-02,Furniture,South,701.96,561.98193
+2017-12-07,Furniture,South,82.38,507.301
+2017-12-10,Furniture,South,33.864,314.1544
+2017-12-11,Furniture,South,786.659,523.5633
+2017-12-17,Furniture,South,504.9,835.8637
+2017-12-22,Furniture,South,1076.916,1593.2828
+2017-12-23,Furniture,South,72.704,469.43698
+2017-12-24,Furniture,South,232.88,540.9005
+2017-12-25,Furniture,South,325.45,1198.7091
+2017-12-29,Furniture,South,1767.57,630.7351
+2017-11-30,Furniture,West,25.83,513.6861
+2017-12-01,Furniture,West,842.28,602.89197
+2017-12-02,Furniture,West,2816.792,1793.7596
+2017-12-03,Furniture,West,578.248,455.0055
+2017-12-05,Furniture,West,199.9,797.0192
+2017-12-08,Furniture,West,2583.321,1891.3705
+2017-12-09,Furniture,West,1044.585,862.81244
+2017-12-10,Furniture,West,1669.6,1478.8673
+2017-12-13,Furniture,West,201.04,641.17035
+2017-12-14,Furniture,West,26.25,617.92865
+2017-12-15,Furniture,West,22.77,2133.8804
+2017-12-16,Furniture,West,197.712,544.94415
+2017-12-18,Furniture,West,119.833,823.1123
+2017-12-19,Furniture,West,115.378,495.91635
+2017-12-22,Furniture,West,182.55,752.255
+2017-12-24,Furniture,West,850.92,1072.2632
+2017-12-28,Furniture,West,348.104,1803.3058
+2017-12-29,Furniture,West,563.148,684.3458
+2017-11-30,Office Supplies,Central,2.368,310.0774
+2017-12-01,Office Supplies,Central,254.488,528.7424
+2017-12-02,Office Supplies,Central,306.78000000000003,751.4487
+2017-12-03,Office Supplies,Central,10.368,292.33267
+2017-12-04,Office Supplies,Central,70.368,254.94556
+2017-12-05,Office Supplies,Central,100.34,360.79
+2017-12-07,Office Supplies,Central,1909.094,-21.424892
+2017-12-08,Office Supplies,Central,1178.33,778.9661
+2017-12-09,Office Supplies,Central,424.938,809.85126
+2017-12-10,Office Supplies,Central,34.5,16.122356
+2017-12-11,Office Supplies,Central,24.44,231.90247
+2017-12-14,Office Supplies,Central,95.232,88.90421
+2017-12-15,Office Supplies,Central,10.192,255.42949
+2017-12-16,Office Supplies,Central,10.8,589.0451
+2017-12-17,Office Supplies,Central,127.004,438.3027
+2017-12-21,Office Supplies,Central,375.34,415.107
+2017-12-22,Office Supplies,Central,978.7199999999999,254.3463
+2017-12-23,Office Supplies,Central,247.69600000000003,259.98575
+2017-12-24,Office Supplies,Central,264.32,321.90985
+2017-12-25,Office Supplies,Central,160.162,2136.1555
+2017-12-26,Office Supplies,Central,811.462,-47.296097
+2017-12-28,Office Supplies,Central,57.227999999999994,0.18428946
+2017-12-29,Office Supplies,Central,209.7,230.10484
+2017-12-30,Office Supplies,Central,209.3,293.79407
+2017-11-30,Office Supplies,East,1241.3980000000001,510.34528
+2017-12-01,Office Supplies,East,424.519,221.03014
+2017-12-02,Office Supplies,East,942.124,361.2722
+2017-12-03,Office Supplies,East,101.694,347.62448
+2017-12-04,Office Supplies,East,117.01,323.21085
+2017-12-05,Office Supplies,East,297.02,197.89001
+2017-12-08,Office Supplies,East,930.288,413.00168
+2017-12-09,Office Supplies,East,108.496,414.79205
+2017-12-10,Office Supplies,East,451.29100000000005,355.54855
+2017-12-11,Office Supplies,East,861.722,868.9585
+2017-12-14,Office Supplies,East,116.84,265.5383
+2017-12-16,Office Supplies,East,33.376,827.03876
+2017-12-17,Office Supplies,East,191.536,431.52402
+2017-12-18,Office Supplies,East,1998.8159999999998,269.53156
+2017-12-20,Office Supplies,East,377.736,248.10916
+2017-12-21,Office Supplies,East,235.94,620.3975
+2017-12-22,Office Supplies,East,696.8009999999999,374.33603
+2017-12-24,Office Supplies,East,99.90599999999999,1293.6564
+2017-12-25,Office Supplies,East,52.334999999999994,235.7692
+2017-12-26,Office Supplies,East,3.132,77.30233
+2017-12-27,Office Supplies,East,13.248,337.65417
+2017-12-28,Office Supplies,East,119.674,358.02298
+2017-12-29,Office Supplies,East,6.03,353.46747
+2017-12-30,Office Supplies,East,52.776,32.503517
+2017-11-30,Office Supplies,South,173.8,456.32162
+2017-12-02,Office Supplies,South,161.046,254.13115
+2017-12-03,Office Supplies,South,98.446,81.61813
+2017-12-07,Office Supplies,South,320.64,340.6647
+2017-12-09,Office Supplies,South,281.08000000000004,1680.8611
+2017-12-10,Office Supplies,South,45.84,383.7855
+2017-12-11,Office Supplies,South,13.584,320.7876
+2017-12-17,Office Supplies,South,544.38,165.24313
+2017-12-18,Office Supplies,South,12.672,213.95628
+2017-12-19,Office Supplies,South,1665.62,113.09845
+2017-12-21,Office Supplies,South,23.88,713.6905
+2017-12-22,Office Supplies,South,116.352,344.3955
+2017-12-23,Office Supplies,South,888.516,619.1994
+2017-12-25,Office Supplies,South,824.74,380.5241
+2017-12-28,Office Supplies,South,64.784,206.64008
+2017-12-29,Office Supplies,South,47.11,458.2569
+2017-12-01,Office Supplies,West,692.443,336.07245
+2017-12-02,Office Supplies,West,1255.662,510.8673
+2017-12-03,Office Supplies,West,237.424,999.914
+2017-12-04,Office Supplies,West,11.76,779.32434
+2017-12-05,Office Supplies,West,398.7,204.64255
+2017-12-06,Office Supplies,West,10.68,729.40393
+2017-12-07,Office Supplies,West,50.04,149.1441
+2017-12-08,Office Supplies,West,524.134,176.66316
+2017-12-09,Office Supplies,West,632.5649999999999,430.17664
+2017-12-10,Office Supplies,West,441.604,257.0757
+2017-12-13,Office Supplies,West,91.92000000000002,324.8988
+2017-12-14,Office Supplies,West,108.66,264.5112
+2017-12-15,Office Supplies,West,77.15,399.30148
+2017-12-16,Office Supplies,West,276.914,796.61
+2017-12-17,Office Supplies,West,535.578,574.9925
+2017-12-18,Office Supplies,West,104.422,194.46332
+2017-12-19,Office Supplies,West,114.928,264.90576
+2017-12-21,Office Supplies,West,1136.8899999999999,350.8827
+2017-12-22,Office Supplies,West,59.94,296.09296
+2017-12-23,Office Supplies,West,13.48,353.12
+2017-12-24,Office Supplies,West,1115.412,194.36815
+2017-12-25,Office Supplies,West,428.028,534.08887
+2017-12-28,Office Supplies,West,849.558,264.43845
+2017-12-29,Office Supplies,West,19.6,719.28613
+2017-12-30,Office Supplies,West,37.647999999999996,499.85382
+2017-11-30,Technology,Central,95.976,589.3815
+2017-12-01,Technology,Central,351.78,863.92584
+2017-12-02,Technology,Central,2479.96,615.9378
+2017-12-04,Technology,Central,542.75,496.787
+2017-12-05,Technology,Central,99.39,266.7929
+2017-12-08,Technology,Central,178.11,452.6343
+2017-12-09,Technology,Central,104.88,513.984
+2017-12-11,Technology,Central,116.312,452.82568
+2017-12-14,Technology,Central,319.92,514.42255
+2017-12-18,Technology,Central,29.34,439.6479
+2017-12-22,Technology,Central,284.94,305.3683
+2017-11-30,Technology,East,546.06,341.78098
+2017-12-01,Technology,East,83.328,593.32513
+2017-12-02,Technology,East,1131.138,916.3539
+2017-12-03,Technology,East,136.99,2485.0579
+2017-12-04,Technology,East,255.968,571.56464
+2017-12-05,Technology,East,205.03,2782.83
+2017-12-07,Technology,East,127.984,876.09045
+2017-12-08,Technology,East,83.988,1365.285
+2017-12-10,Technology,East,14.2,1055.158
+2017-12-11,Technology,East,285.81,300.41238
+2017-12-14,Technology,East,1199.98,755.8939
+2017-12-21,Technology,East,281.97,563.0182
+2017-12-22,Technology,East,629.958,716.65137
+2017-12-25,Technology,East,190.728,674.9381
+2017-12-27,Technology,East,164.388,616.3674
+2017-12-28,Technology,East,14.85,1044.8722
+2017-12-30,Technology,East,90.93,710.1031
+2017-11-30,Technology,South,455.952,396.17575
+2017-12-03,Technology,South,47.992,1408.4559
+2017-12-04,Technology,South,649.0,334.26392
+2017-12-07,Technology,South,52.0,414.1802
+2017-12-09,Technology,South,1546.43,273.71255
+2017-12-10,Technology,South,638.94,982.6833
+2017-12-11,Technology,South,73.568,954.7219
+2017-12-14,Technology,South,204.55,661.0853
+2017-12-21,Technology,South,71.0,814.7464
+2017-12-22,Technology,South,46.864,832.56506
+2017-12-23,Technology,South,494.97,629.52124
+2017-12-24,Technology,South,479.97,2408.5447
+2017-12-25,Technology,South,210.48000000000002,407.46625
+2017-12-01,Technology,West,982.328,834.6511
+2017-12-02,Technology,West,146.968,862.31793
+2017-12-03,Technology,West,179.088,881.74316
+2017-12-05,Technology,West,31.176,685.71454
+2017-12-07,Technology,West,374.376,366.31564
+2017-12-08,Technology,West,1379.9260000000002,655.28864
+2017-12-09,Technology,West,444.768,920.6412
+2017-12-10,Technology,West,144.92000000000002,573.8041
+2017-12-15,Technology,West,196.776,693.2801
+2017-12-16,Technology,West,339.9,447.18744
+2017-12-18,Technology,West,119.98,1095.255
+2017-12-22,Technology,West,541.99,570.42694
+2017-12-24,Technology,West,2879.952,1663.587
+2017-12-29,Technology,West,302.376,591.2099
